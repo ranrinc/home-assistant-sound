@@ -1,0 +1,1 @@
+### All sounds needed for Home Assistant
